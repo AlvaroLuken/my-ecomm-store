@@ -10,14 +10,14 @@
         "id": "prod_JfQxd5UTnMfbIs",
         "title": "Coyote's Soul",
         "description": "Loyalty is what it's all about - the coyote will protecc!",
-        "image": "/images/cs.gif",
+        "image": "https://media.niftygateway.com/image/upload/q_auto:good,w_800/v1595942801/CarlosMarcial/Ai_Coyote_previz_cwgzys.webp",
         "price": 500.00
     },
     {
         "id": "prod_JfQyiuxFw9VOw2",
         "title": "Jaguar's Soul",
         "description": "The true king of the jungle - he will inflict pain on your greatest enemies!",
-        "image": "/images/js.gif",
+        "image": "https://media.niftygateway.com/image/upload/q_auto:good,w_800/v1595942803/CarlosMarcial/Ai_Jaguar_previz_ah5kbf.webp",
         "price": 1000.00
     }
 ]
