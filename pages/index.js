@@ -1,11 +1,16 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-
 import products from '../products.json';
+import { Button1 } from '../Button1.js';
+
+// how do I center text in buttons?
+// how do I make all buttons align?
+
+
 
 export default function Home() {
-  console.log(products);
+  console.log('NEXT_PUBLIC_STRIPE_API_KEY', process.env.NEXT_PUBLIC_STRIPE_API_KEY);
   return (
     <div className={styles.container}>
       <Head>
@@ -31,6 +36,11 @@ export default function Home() {
                 <p>${price}</p>
                 <p>{description}</p>
               </a>
+              <p>
+                <Button1 onClick={() => {
+                  console.log("Bought!");
+                }}>Buy Now</Button1>
+              </p>
           </li>
             )
           })}
