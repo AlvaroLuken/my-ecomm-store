@@ -1,0 +1,23 @@
+[
+    {
+        "id": "prod_JfQwekq0wKz9gB",
+        "title": "Serpent God",
+        "description": "Let the Serpent God creep into your darkest nightmares - and save you!",
+        "image": "/images/sg.gif",
+        "price": 250.00
+    },
+    {
+        "id": "prod_JfQxd5UTnMfbIs",
+        "title": "Coyote's Soul",
+        "description": "Loyalty is what it's all about - the coyote will protecc!",
+        "image": "/images/cs.gif",
+        "price": 500.00
+    },
+    {
+        "id": "prod_JfQyiuxFw9VOw2",
+        "title": "Jaguar's Soul",
+        "description": "The true king of the jungle - he will inflict pain on your greatest enemies!",
+        "image": "/images/js.gif",
+        "price": 1000.00
+    }
+]
